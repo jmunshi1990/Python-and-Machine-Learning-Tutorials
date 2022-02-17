@@ -8,7 +8,7 @@ Then open a terminal and run
 
 ```
 conda update conda
-conda create -n python-tutorials python==3.8
+conda create -n python-tutorials python==3.9
 conda activate python-tutorials
 ```
 
